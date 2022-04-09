@@ -1,0 +1,8 @@
+pemain1 - 77.00
+pemain2 - 64.20
+pemain3 - 123
+pemain4 - 92.163000
+player - 80.644000
+Player2 - 71.819000
+Player3 - 91.916000
+User1 - 73.293000
